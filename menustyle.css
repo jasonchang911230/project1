@@ -1,8 +1,14 @@
-#menu {
+#logo {
     position: fixed;
     left: 0;
     right: 0;
-    top: 0;
+    top: -20;
     background-color: aliceblue;
 
+}
+
+#bm1 {
+    position: fixed;
+    top: 30;
+    left: 50%;
 }
